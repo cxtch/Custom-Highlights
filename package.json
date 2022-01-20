@@ -1,0 +1,9 @@
+{
+  "name": "customhighlights",
+  "author": "cxtch",
+  "description": "Config your own syntax highlighting for discord",
+  "type": "module",
+  "dependencies": {
+    "clipboardy": "^3.0.0"
+  }
+}
