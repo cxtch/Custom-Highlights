@@ -4,7 +4,6 @@
   "description": "Config your own syntax highlighting for discord",
   "type": "module",
   "dependencies": {
-    "clap": "^3.0.0",
     "clipboardy": "^3.0.0"
   }
 }
